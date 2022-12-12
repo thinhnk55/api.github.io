@@ -1,0 +1,8 @@
+{
+  "clients": [
+    {
+      "client":"early-bird-01",
+      "base_url":"http://127.0.0.1/earlybird"
+    }
+  ]
+}
