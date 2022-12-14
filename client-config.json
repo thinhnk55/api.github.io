@@ -2,7 +2,7 @@
   "clients": [
     {
       "client":"early-bird-01",
-      "base_url":"http://127.0.0.1:8080/earlybird"
+      "assets_url":"http://127.0.0.1:8080/earlybird"
     }
   ]
 }
